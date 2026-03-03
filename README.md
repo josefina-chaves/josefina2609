@@ -34,10 +34,11 @@ Soy una profesional apasionada por la intersección entre la tecnología y la co
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### Otras áreas
-* 📸 Interés en fotografía y edición de imágenes.
-* 🏓 Jugadora de **Ping Pong** en mis tiempos libres.
-* 🧉 Amante del **yerba mate**.
+## Diseño y Comunicación Visual
+- **Herramientas de Diseño:** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+  ![Adobe InDesign](https://img.shields.io/badge/adobe%20indesign-%23FF3366.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=white)
 
 ---
 
@@ -47,4 +48,8 @@ Soy una profesional apasionada por la intersección entre la tecnología y la co
 ---
 
 ## 📫 Contacto
-- 📍 Saladillo, Buenos Aires, Argentina.
+- 📍 Argentina
+- 📧 **Email:** [chavesjosefina666@gmail.com](mailto:chavesjosefina666@gmail.com)
+- 💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefinachaves)
+
+---
